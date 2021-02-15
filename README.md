@@ -1,4 +1,4 @@
-# PaginaWebLoopstudios
+# Pagina Web Loopstudios
 
 ## Welcome! 👋
 
