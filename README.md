@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Pagina_web_loopstudios
-=======
 # Pagina Web Loopstudios
->>>>>>> 4519b8fbf779ab75d409fead2866ce9a34d34fbe
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
