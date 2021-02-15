@@ -68,8 +68,3 @@ Feedback is always welcome, so if you have any to give on this challenge please 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 4519b8fbf779ab75d409fead2866ce9a34d34fbe
