@@ -106,3 +106,33 @@ nav.menu ul li a:hover{
     font-size: 13.4px;
     line-height: 20px;
 }
+
+.text_button h3 {
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    top: 88rem ;
+    left: 6rem;
+    position: absolute;
+}
+
+.text_button  button {
+    left: 63rem;
+    top: 88rem;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(8, 4, 4);
+    font-weight: bold;
+    padding: 0.6rem 2rem;
+    letter-spacing: 2px;
+    border: 1px solid black;
+    position: absolute;
+}
+
+.text_button .top:hover, .bottom:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
