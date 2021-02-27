@@ -136,3 +136,153 @@ nav.menu ul li a:hover{
     color: white;
     cursor: pointer;
 }
+
+.image-deep-earth {
+  left: 6.5rem;
+  top: 95rem ;
+  position: absolute;
+}
+
+.image-deep-earth p {
+  top: 22rem;
+  left: 2.5rem;
+  color: white;
+  font-size: 32px;
+  font-weight: lighter;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.image-night-arcade {
+  left: 24.5rem;
+  top: 95rem ;
+  filter: saturate(60%);
+  position: absolute;
+}
+
+.image-night-arcade p {
+  top: 22rem;
+  left: 2.5rem;
+  color: white;
+  font-size: 32px;
+  font-weight: lighter;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.image-soccer-team {
+  left: 42.5rem;
+  top: 95rem ;
+  position: absolute;
+}
+
+.image-soccer-team p {
+  top: 22rem;
+  left: 2.5rem;
+  color: white;
+  font-size: 32px;
+  font-weight: lighter;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.image-grid {
+  left: 60.5rem;
+  top: 95rem ;
+  position: absolute;
+}
+
+.image-grid p {
+  top: 22rem;
+  left: 2.5rem;
+  color: white;
+  font-size: 32px;
+  font-weight: lighter;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.image-from-above {
+  left: 6.5rem;
+  top: 125rem ;
+  position: absolute;
+}
+
+.image-from-above p {
+  top: 22rem;
+  left: 2.5rem;
+  color: white;
+  font-size: 32px;
+  font-weight: lighter;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.image-pocket-borealis {
+  left: 24.5rem;
+  top: 125rem;
+  position: absolute;
+}
+
+.image-pocket-borealis p {
+  top: 22rem;
+  left: 2.5rem;
+  color: white;
+  font-size: 32px;
+  font-weight: lighter;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.image-curiosity {
+  left: 21.2rem;
+  top: 62.5rem;
+  position: absolute;
+}
+
+.image-curiosity p {
+  top: 22rem;
+  left: 2.5rem;
+  color: white;
+  font-size: 32px;
+  font-weight: lighter;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.image-fisheye {
+  left: 60.5rem;
+  top: 125rem ;
+  position: absolute;
+}
+
+.image-fisheye p {
+  top: 22rem;
+  left: 2.5rem;
+  color: white;
+  font-size: 32px;
+  font-weight: lighter;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.image-deep-earth:hover, .image-night-arcade:hover, .image-soccer-team:hover, .image-grid:hover {
+  opacity: 0.3;
+}
+
+.image-from-above:hover, .image-pocket-borealis:hover {
+  opacity: 0.3;
+}
+
+.image-curiosity:hover, .image-fisheye:hover {
+  opacity: 0.6;
+}
+
