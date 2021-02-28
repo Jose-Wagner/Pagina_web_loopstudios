@@ -286,3 +286,31 @@ nav.menu ul li a:hover{
   opacity: 0.6;
 }
 
+.attribution {
+  background-color: black;
+  padding: 4% 40.55%;
+  color: white;
+  top: 162rem;
+  position: absolute;
+
+}
+
+.attribution .logo {
+  width: 53%;
+  
+}
+.logo {
+  margin-bottom: 0rem;
+  bottom: 0.6rem;
+  left: -23.5rem;
+  position: relative;
+}
+
+.menu-footer ul{
+  display: flex;
+  position: relative;
+}
+.menu-footer li {
+  margin: 1rem;
+   
+}
